@@ -12,6 +12,6 @@ This project demonstrates the potential of XAI in understanding and classifying 
 
 1) **Classification_With_XAI folder:** This folder includes code for performing traffic classification across three datasets using various explainability tools.
 
-2) **Intelligence folder: The Intelligence folder contains scripts related to threat intelligence extracted from darknet traffic data.
+2) **Intelligence folder:** The Intelligence folder contains scripts related to threat intelligence extracted from darknet traffic data.
 
-3) SHAP_Feature_Selection folder: This folder contains code for conducting classification tasks with varying numbers of features selected based on SHAP (SHapley Additive exPlanations) summary plot results.
+3) **SHAP_Feature_Selection folder:** This folder contains code for conducting classification tasks with varying numbers of features selected based on SHAP (SHapley Additive exPlanations) summary plot results.
