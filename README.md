@@ -15,3 +15,19 @@ This project demonstrates the potential of XAI in understanding and classifying 
 2) **Intelligence folder:** The Intelligence folder contains scripts related to threat intelligence extracted from darknet traffic data.
 
 3) **SHAP_Feature_Selection folder:** This folder contains code for conducting classification tasks with varying numbers of features selected based on SHAP (SHapley Additive exPlanations) summary plot results.
+
+
+## Citation
+
+If you use the OSTIS dataset, models, or any other materials from this repository in your research or application, please cite our paper:
+
+@article{arikkat2024xaitrafficintell,
+  title={XAITrafficIntell: Interpretable Cyber Threat Intelligence for Darknet Traffic Analysis},
+  author={Arikkat, Dincy R and Vinod, P and Rafidha Rehiman, KA and Rasheed, Rabeeba Abdul and Conti, Mauro},
+  journal={Journal of Network and Systems Management},
+  volume={32},
+  number={4},
+  pages={88},
+  year={2024},
+  publisher={Springer}
+}
